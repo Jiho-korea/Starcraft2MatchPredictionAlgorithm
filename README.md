@@ -1,5 +1,9 @@
 # Starcraft2MatchPredictionAlgorithm
 
+
+![poster](https://user-images.githubusercontent.com/50912180/103545754-5aa25f00-4ee5-11eb-8816-8bbc63003b3f.jpg)
+
+
 ![image](https://user-images.githubusercontent.com/50912180/102563048-ce89ec80-411b-11eb-8e01-95d54366f692.png)
 
 
